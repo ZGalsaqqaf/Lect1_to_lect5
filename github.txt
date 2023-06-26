@@ -1,0 +1,8 @@
+git init --> create repository
+
+git add . -->
+
+git commit -m "Lect1"   -->
+
+git push master --> يرفعه الى github
+

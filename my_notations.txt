@@ -1,0 +1,3 @@
+php artisan migrate  --> create database
+
+.env  --> اعدادات قاعدة البيانات
